@@ -1,6 +1,6 @@
 {
   "name": "nominatim-geocode-async",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "A async wrapper for the github.com/w8r/nominatim-geocode",
   "main": "dist/index.js",
   "scripts": {

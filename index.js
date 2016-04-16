@@ -7,7 +7,7 @@ export default class {
         this.n = new nominatim(p);
     }
 
-    function reverse(q) {
+    reverse(q) {
         return new Promise((res, rej) => {
             this.n.reverse(q, (err, result) => {
                 if (err) {
@@ -20,7 +20,7 @@ export default class {
     }
 
 
-    function search(q) {
+    search(q) {
         return new Promise((res, rej) => {
             this.n.search(q, (err, result) => {
                 if (err) {
