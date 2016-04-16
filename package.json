@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Ahn1/nominatim-geocode-async#readme",
   "dependencies": {
-    "nominatim-geocode": "^1.0.0"
+    "node-nominatim2": "^0.1.0"
   },
   "devDependencies": {
     "babel-loader": "^6.2.4",
