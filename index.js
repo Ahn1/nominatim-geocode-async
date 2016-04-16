@@ -1,4 +1,4 @@
-import nominatim from 'nominatim-geocode2'
+import nominatim from 'node-nominatim2'
 
 
 export default class {
