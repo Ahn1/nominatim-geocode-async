@@ -1,5 +1,5 @@
 # nominatim-geocode-async
-A async wrapper for the  [node-nominatim2](https://www.npmjs.com/package/node-nominatim2)
+A es7 async wrapper for the  [node-nominatim2](https://www.npmjs.com/package/node-nominatim2)
 
 Usage
 -----
@@ -7,7 +7,7 @@ Usage
 **Require nominatim-geocode-async**
 
 ```
-var Nominatim = require('nominatim-geocode-async');
+import Nominatim from 'nominatim-geocode-async'
 ```
 
 ```
