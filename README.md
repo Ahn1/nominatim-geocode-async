@@ -1,2 +1,2 @@
 # nominatim-geocode-async
-A async wrapper for the  [nominatim-geocode](github.com/w8r/nominatim-geocode)
+A async wrapper for the  [node-nominatim2](https://www.npmjs.com/package/node-nominatim2)
